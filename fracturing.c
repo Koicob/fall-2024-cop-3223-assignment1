@@ -59,7 +59,7 @@ double calculateDistance() { //OBJECTIVE: Asks users for input and calcs the dis
 
     printf("x1 = %.3f; y1 = %.3f\n", x1, y1);
     printf("x2 = %.3f; y2 = %.3f\n", x2, y2);
-    printf("The distance between the two points is %.2f\n", distance);
+    printf("The distance between the two points is %.3f\n", distance);
 
     return distance;
 } //calculateDistance
